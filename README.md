@@ -74,11 +74,11 @@ SSRF-快速成像线站 10.29-10.31 (3)
 - [ ] 标签纸（标线需要很多）
 - [ ] BNC延长接头
 
-### 注意问题
+## 注意问题
 - [ ] 有些信号多路连接带不动，需要DG转一下
 - [ ] DG535低电平inhibit
 
-### ASP时序图参考
+## ASP时序图参考
 
 - [ ] 2sgg fast
 <img src="./Time_2sgg_fast.png" width="200%">
@@ -98,7 +98,7 @@ SSRF-快速成像线站 10.29-10.31 (3)
 - [ ] 总时序图
 <img src="./Timing_sequence.png" width="200%">
 
-### 时序计算（need to check）
+## 时序计算（need to check）
 - [ ] MCP240 120 ns 完全开启
 - [ ] DG535 85 ns 延迟
 - [ ] DG645 100 ns 延迟
@@ -111,16 +111,16 @@ SSRF-快速成像线站 10.29-10.31 (3)
   - [ ] 1M Ω 慢一些 而且有不稳定的jitter
   - [ ] 50 Ω容易烧坏设备
 
-### SSRF
+## SSRF
 - [ ] Setup
 <img src="./Setup.png" width="200%">
 
-### 需要从北京带走的设备
+## 需要从北京带走的设备
 - [ ] 位移台控制 + 位移台（z2 x4 ？）
 - [ ] XRD模块
 - [ ] DG?
 
-### Condition
+## Condition
 - [ ] 拉群 @ S. Chen
 - [ ] SSRF对接的人
 - [ ] SSRF那边现在有些什么？
