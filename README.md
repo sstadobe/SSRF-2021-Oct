@@ -90,8 +90,8 @@ SSRF-快速成像线站 10.29-10.31 (3)
 - [ ] 时序接线
   - [ ] Control room
 <img src="./Control_room.png" width="200%">
-  - [ ] Hatch
-<img src="./Hatch.png" width="200%">
+  - [ ] Hutch
+<img src="./Hutch.png" width="200%">
 
 - [ ] 总时序图
 <img src="./Timing_sequence.png" width="200%">
