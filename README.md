@@ -97,6 +97,10 @@ SSRF-快速成像线站 10.29-10.31 (3)
 <img src="./Time_edge_on.png" width="200%">
 
 - [ ] 时序接线
+  - [ ] Control room
+<img src="./Control_room.png" width="200%">
+  - [ ] Hatch
+<img src="./Hatch.png" width="200%">
 
 
 ### 时序计算程序
