@@ -96,6 +96,9 @@ SSRF-快速成像线站 10.29-10.31 (3)
 - [ ] 1sgg edge on
 <img src="./Time_edge_on.png" width="200%">
 
+- [ ] 时序接线
+
+
 ### 时序计算程序
 - [ ] ？
 
