@@ -149,6 +149,7 @@ SSRF-快速成像线站 10.29-10.31 (3)
   - [ ] S. Y. Li
   - [ ] Y. J. Deng
   - [ ] S. H. Guo
+  - [ ] J. Li
   - [ ] **Z. J. Liu** T. Zhong
   - [ ] D. Fan
 - [ ] 现场图片
